@@ -1,0 +1,9 @@
+.cover__overlay {
+    background-color: #2a2c2f;
+    opacity: 30%;
+    object-fit: contain;
+}
+
+.cover__overlay:hover {
+    opacity: 80%;
+}
