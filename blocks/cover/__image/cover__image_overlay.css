@@ -1,0 +1,8 @@
+.cover__image_overlay {
+    background-color: #2a2c2f;
+    opacity: 80%;
+}
+
+.cover__image_overlay:hover {
+    opacity: 30%;
+}
