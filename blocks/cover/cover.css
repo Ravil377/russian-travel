@@ -4,7 +4,7 @@
     margin-right: 48px;
     margin-top: 92px;
     padding-bottom: 50%;
-    width: calc(100%-96px);
+    width: calc(100% - 96px);
     display: grid;
     justify-items: center;
     align-items: center;
