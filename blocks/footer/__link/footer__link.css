@@ -6,6 +6,10 @@
     margin: 0;
 }
 
+.footer__link:hover {
+    opacity: 80%;
+}
+
 @media screen and (max-width: 720px) {
     .footer__link  {
         margin-right: 0;

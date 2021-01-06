@@ -1,13 +1,16 @@
 .photo-grid {
-    padding: 0;
-    margin: 0;
-    margin-left: 48px;
-    margin-right: 48px;
-    margin-top: 92px;
-    display: grid;
-    grid-template-columns: repeat(4, auto);
-    gap: 16px;
-    list-style: none;
+  margin-left: 48px;
+  margin-right: 48px;
+  margin-top: 92px;
+}
+
+.photo-grid ul{
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+  gap: 16px;
+  list-style: none;
 }
 
 @media screen and (max-width: 1024px) {

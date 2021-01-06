@@ -1,7 +1,12 @@
 .cover__content {
-    max-width: 560px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
     position: absolute;
-    z-index: 2;
-    display: grid;
-    justify-items: center;
+    left: 0; 
+    right: 0; 
+    top: 0;
+    bottom: 0; 
 }
