@@ -1,5 +1,5 @@
-.footer__link__menu {
-    font-family: Inter;
+.footer__link-menu {
+    font-family: 'Inter', sans-serif;
     font-size: 1rem;
     font-style: normal;
     font-weight: 400;
@@ -9,7 +9,7 @@
 }
 
 @media screen and (max-width: 320px) {
-    .footer__link__menu  {
+    .footer__link-menu  {
         font-size: 1.5rem;
         line-height: 1.5;
     }
