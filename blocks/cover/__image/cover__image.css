@@ -1,13 +1,7 @@
 .cover__image {
     background: url(../../../images/cover-trains.jpg) no-repeat;
     background-size: cover;
-    padding-top: 57.8%;
-}
-
-@media screen and (max-width: 1024px) {
-    .cover__image {
-        padding-top: 62.5%;
-    }
+    padding-top: 62.5%;
 }
 
 .cover__image::before {
