@@ -9,8 +9,9 @@
     line-height: 1.22;
     color: #ffffff;
     text-align: center;
+    z-index:2;
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 350px) {
     .cover__subtitle {
         margin-top: 16px;
         font-size: 0.87rem;
