@@ -5,10 +5,10 @@
 }
 
 @media screen and (max-width: 1024px) {
-    .cover__image  {
+    .cover__image {
         padding-top: 62.5%;
     }
-} 
+}
 
 .cover__image::before {
     content: "";
@@ -17,18 +17,17 @@
     top: 0;
     right: 0;
     bottom: 0;
-    background-color:#2A2C2F;
+    background-color: #2a2c2f;
     opacity: 0.3;
 }
 
 .cover__image:hover::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  background-color:#2A2C2F;
-  opacity: 0.8;
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #2a2c2f;
+    opacity: 0.8;
 }
-

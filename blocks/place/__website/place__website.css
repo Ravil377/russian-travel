@@ -1,6 +1,6 @@
 .place__website {
     margin: 0;
-    font-family: 'Inter', sans-serif;
+    font-family: "Inter", sans-serif;
     font-size: 12px;
     font-style: normal;
     font-weight: 400;
@@ -10,7 +10,7 @@
 }
 
 @media screen and (max-width: 500px) {
-    .place__website  {
+    .place__website {
         display: none;
     }
-  } 
+}

@@ -3,19 +3,19 @@
     margin: auto;
     margin-top: 32px;
     max-width: 640px;
-    font-family: 'Inter', sans-serif;
+    font-family: "Inter", sans-serif;
     font-size: 1.87rem;
     font-style: normal;
     font-weight: 400;
     line-height: 1.2;
     text-align: center;
-    color: #FFFFFF;
+    color: #ffffff;
 }
 
 @media screen and (max-width: 700px) {
-    .lead__subtitle  {
+    .lead__subtitle {
         font-size: 1rem;
         line-height: 1.25;
         margin-top: 16px;
     }
-} 
+}
