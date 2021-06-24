@@ -3,7 +3,7 @@
 <img src="https://github.com/Ravil377/russian-travel/blob/master/assets/russian_travel.gif" width="250" height="350">>
 
 ### Технологии:
-####  ⋅⋅*Grid,
+- Grid,
 ####  ⋅⋅*Flex,
 ####  ⋅⋅*Подключены дополнительный шрифты,
 ####  ⋅⋅*адаптация под все разрешения,
